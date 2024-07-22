@@ -1,0 +1,11 @@
+h1{
+    border:  5px outset rgb(68, 3, 11);
+    border-radius: 15px;
+}
+p{
+    border-bottom: 5px inset hsl(228, 96%, 9%);
+    border-top: 5px inset hsl(288, 93%, 17%);
+    border-left: 5px inset hsl(177, 92%, 26%);
+    border-right: 5px inset hsl(133, 96%, 9%);
+    border-radius: 15px;
+}
